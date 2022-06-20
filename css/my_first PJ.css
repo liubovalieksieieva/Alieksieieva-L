@@ -15,9 +15,32 @@ h2{
 	color: rgb(46, 179, 216);
 }
 h3{
-	color: black
+	color: black;
 }
 
+.example-block{
+	font-weight: 700;
+	padding: 10px;
+	border: 1px solid black;
+	background-color: darkgrey;
+	
+}
+.example-block2{
+	font-weight: 700;
+	padding: 10px;
+	border: 1px solid #000;
+	background-color: burlywood;
+}
+img{
+	background-color: rgb(221, 237, 112);
+	padding: 10px;
+	border: 2px solid rgb(71, 160, 53);
+	margin: 10px;
 
-
-
+}
+.education{
+	background-color: rgb(238, 234, 158);
+	padding: 5px;
+	border: 0.5px solid rgb(178, 178, 242);
+	margin: 3px;
+}
